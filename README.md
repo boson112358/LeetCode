@@ -1,2 +1,2 @@
 # LeetCode
-practice leetcode
+practice for fun
